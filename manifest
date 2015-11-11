@@ -1,0 +1,5 @@
+name: Text
+description: Information pages, editable by all members or just admins.
+icon: info
+api: 2
+store: 250
