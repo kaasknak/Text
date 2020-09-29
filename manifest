@@ -1,5 +1,5 @@
-name: Text
-description: Information pages, editable by all members or just admins.
+name: Text thingy
+description: Fork of old text editor. Free bugs included.
 icon: info
 api: 2
 store: 250
